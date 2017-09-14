@@ -1,0 +1,48 @@
+0: 29154_superba
+1: 30556_thamno
+2: 30686_cyathophylla
+3: 32082_przewalskii
+4: 33413_thamno
+5: 33588_przewalskii
+6: 35236_rex
+7: 35855_rex
+8: 38362_rex
+9: 39618_rex
+10: 40578_rex
+11: 41478_cyathophylloides
+12: 41954_cyathophylloides
+Outgroup: 3 Hybrid: 1 Parents: 4 6 Hils: 4.89718362562 Pvalue: 9.72199819693e-07
+Outgroup: 3 Hybrid: 1 Parents: 4 7 Hils: 2.7762732511 Pvalue: 0.00549859743609
+Outgroup: 3 Hybrid: 1 Parents: 4 8 Hils: 3.49992100024 Pvalue: 0.000465396060582
+Outgroup: 3 Hybrid: 1 Parents: 4 9 Hils: 3.11500372638 Pvalue: 0.00183942586081
+Outgroup: 3 Hybrid: 1 Parents: 4 10 Hils: 2.57203111703 Pvalue: 0.0101103804092
+Outgroup: 3 Hybrid: 7 Parents: 1 6 Hils: 1.98734477217 Pvalue: 0.0468842033423
+Outgroup: 3 Hybrid: 8 Parents: 1 6 Hils: 2.60992544092 Pvalue: 0.00905619584322
+Outgroup: 3 Hybrid: 9 Parents: 1 6 Hils: 2.47091137012 Pvalue: 0.0134769215261
+Outgroup: 3 Hybrid: 10 Parents: 1 6 Hils: 2.28561566515 Pvalue: 0.0222767529083
+Outgroup: 3 Hybrid: 7 Parents: 1 8 Hils: 0.370796599091 Pvalue: 0.710789034619
+Outgroup: 3 Hybrid: 9 Parents: 1 7 Hils: 0.960038721456 Pvalue: 0.337035727225
+Outgroup: 3 Hybrid: 7 Parents: 1 10 Hils: 0.411641061412 Pvalue: 0.680602530515
+Outgroup: 3 Hybrid: 9 Parents: 1 8 Hils: 0.160052438497 Pvalue: 0.872839766661
+Outgroup: 3 Hybrid: 1 Parents: 8 10 Hils: 1.14976411885 Pvalue: 0.250241037419
+Outgroup: 3 Hybrid: 9 Parents: 1 10 Hils: 0.326515925478 Pvalue: 0.744034042184
+Outgroup: 3 Hybrid: 7 Parents: 4 6 Hils: 1.67754729717 Pvalue: 0.0934355087735
+Outgroup: 3 Hybrid: 8 Parents: 4 6 Hils: 0.706098906858 Pvalue: 0.480126631477
+Outgroup: 3 Hybrid: 9 Parents: 4 6 Hils: 1.68486575759 Pvalue: 0.0920144744401
+Outgroup: 3 Hybrid: 10 Parents: 4 6 Hils: 2.19808423905 Pvalue: 0.0279431034586
+Outgroup: 3 Hybrid: 7 Parents: 4 8 Hils: 2.22088384585 Pvalue: 0.0263588296395
+Outgroup: 3 Hybrid: 7 Parents: 4 9 Hils: 1.27894585845 Pvalue: 0.200916122236
+Outgroup: 3 Hybrid: 7 Parents: 4 10 Hils: 0.496434865599 Pvalue: 0.61958763128
+Outgroup: 3 Hybrid: 8 Parents: 4 9 Hils: 0.853377081515 Pvalue: 0.393450226768
+Outgroup: 3 Hybrid: 10 Parents: 4 8 Hils: 2.32473565561 Pvalue: 0.0200860994731
+Outgroup: 3 Hybrid: 10 Parents: 4 9 Hils: 0.819547337441 Pvalue: 0.412474205636
+Outgroup: 3 Hybrid: 8 Parents: 6 7 Hils: 0.290883384018 Pvalue: 0.771140509732
+Outgroup: 3 Hybrid: 6 Parents: 7 9 Hils: 0.483374518895 Pvalue: 0.628829837382
+Outgroup: 3 Hybrid: 10 Parents: 6 7 Hils: 0.184854055689 Pvalue: 0.853343508089
+Outgroup: 3 Hybrid: 9 Parents: 6 8 Hils: 0.906758638654 Pvalue: 0.364534446799
+Outgroup: 3 Hybrid: 6 Parents: 8 10 Hils: 0.656644767363 Pvalue: 0.51140935649
+Outgroup: 3 Hybrid: 10 Parents: 6 9 Hils: 1.30307916628 Pvalue: 0.192547735467
+Outgroup: 3 Hybrid: 8 Parents: 7 9 Hils: 0.160059637032 Pvalue: 0.872834096161
+Outgroup: 3 Hybrid: 7 Parents: 8 10 Hils: 0.391268734055 Pvalue: 0.69559860704
+Outgroup: 3 Hybrid: 7 Parents: 9 10 Hils: 0.316582381151 Pvalue: 0.751560506442
+Outgroup: 3 Hybrid: 9 Parents: 8 10 Hils: 0.823465433958 Pvalue: 0.410243366024
