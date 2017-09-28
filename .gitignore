@@ -1,0 +1,6 @@
+## ignore these files
+*.pyc
+*~
+.DS_Store
+.ipynb_checkpoints
+
