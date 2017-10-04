@@ -2,5 +2,7 @@
 *.pyc
 *~
 .DS_Store
-.ipynb_checkpoints
-
+.ipynb_checkpoints/
+fastqs-Ped/
+analysis-ipyrad/
+download_simseqs/
