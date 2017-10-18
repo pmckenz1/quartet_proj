@@ -1,0 +1,2 @@
+2017-10-11 14:54:05,315 	pid=4143 	[assembly.py]	ERROR 	IOError([Errno 28] No space left on device: '/Users/pmckenz1/Desktop/projects/quartet_proj/data-tmpalign/41478_cyathophylloides_chunk_0.aligned')
+2017-10-11 17:15:57,127 	pid=574 	[assembly.py]	ERROR 	shutdown warning: [Errno 3] No such process
